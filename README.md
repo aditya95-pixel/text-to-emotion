@@ -53,8 +53,6 @@ Ensure all dependencies are installed and the dataset (`emotion_dataset_raw.csv`
 - This script assumes the dataset is formatted correctly and contains necessary columns (`Text` for text data and `Emotion` for labels).
 - Adjust parameters (e.g., `test_size`, `random_state`, classifier options) as needed for your specific use case.
 
-### Author
-This script was created by Aditya Mazumdar.
 
 ---
 
